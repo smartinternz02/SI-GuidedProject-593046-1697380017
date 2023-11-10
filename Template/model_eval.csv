@@ -1,0 +1,8 @@
+,Name,Accuracy,F1 Score,Recall,Precision
+0,Logistic Regression,Accuracy: 63.82%,F1 Score: 69.15%,Recall: 69.91%,Precision: 68.40%
+1,Logistic Regression CV,Accuracy: 63.82%,F1 Score: 69.15%,Recall: 69.91%,Precision: 68.40%
+2,XGBoost,Accuracy: 65.00%,F1 Score: 68.57%,Recall: 65.83%,Precision: 71.55%
+3,Ridge Classifier,Accuracy: 65.18%,F1 Score: 68.79%,Recall: 66.14%,Precision: 71.65%
+4,KNN,Accuracy: 65.82%,F1 Score: 70.53%,Recall: 70.53%,Precision: 70.53%
+5,Random Forest,Accuracy: 60.27%,F1 Score: 66.77%,Recall: 68.81%,Precision: 64.84%
+6,Support Vector Classifier,Accuracy: 66.00%,F1 Score: 67.36%,Recall: 60.50%,Precision: 75.98%
